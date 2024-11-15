@@ -1,0 +1,19 @@
+
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1e1e1e;
+}
+
+#viewer {
+    width: 100%;
+    height: 80vh;
+    background-color: #282c34;
+    border: 2px solid #61dafb;
+    border-radius: 8px;
+}
